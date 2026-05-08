@@ -1,1 +1,1 @@
-Texto modificado en master
+Texto corregido después del conflicto
